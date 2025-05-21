@@ -15,29 +15,34 @@ class _YoutubeScreenState extends State<YoutubeScreen>
   // List of sample video data using the YoutubeModel
   final List<YoutubeModel> videos = [
     YoutubeModel(
-      videoId: 'dQw4w9WgXcQ',
-      channelName: 'RickAstleyVEVO',
-      title: 'Never Gonna Give You Up',
+      videoId: 'YQHsXMglC9A',
+      channelName: 'AdeleVEVO',
+      title: 'Hello',
     ),
     YoutubeModel(
-      videoId: '9bZkp7q19f0',
-      channelName: 'officialpsy',
-      title: 'Gangnam Style',
-    ),
-    YoutubeModel(
-      videoId: 'e-ORhEE9VVg',
-      channelName: 'TaylorSwiftVEVO',
-      title: 'Blank Space',
-    ),
-    YoutubeModel(
-      videoId: '3JZ_D3ELwOQ',
+      videoId: 'JGwWNGJdvx8',
       channelName: 'EdSheeran',
-      title: 'Shape of You',
+      title: 'Perfect',
     ),
     YoutubeModel(
-      videoId: 'fLexgOxsZu0',
-      channelName: 'brunomars',
-      title: 'Uptown Funk',
+      videoId: 'lp-EO5I60KA',
+      channelName: 'PharrellWilliams',
+      title: 'Happy',
+    ),
+    YoutubeModel(
+      videoId: 'RgKAFK5djSk',
+      channelName: 'Wiz Khalifa',
+      title: 'See You Again ft. Charlie Puth',
+    ),
+    YoutubeModel(
+      videoId: 'ktvTqknDobU',
+      channelName: 'ImagineDragons',
+      title: 'Radioactive',
+    ),
+    YoutubeModel(
+      videoId: 'OPf0YbXqDm0',
+      channelName: 'MarkRonsonVEVO',
+      title: 'Uptown Funk ft. Bruno Mars',
     ),
   ];
 
